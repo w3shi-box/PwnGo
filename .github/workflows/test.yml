@@ -1,4 +1,4 @@
-name: Test Go Code Examples against Atlas
+name: Test Go Code Examples
 
 on:
   pull_request_target:
